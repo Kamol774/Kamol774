@@ -40,5 +40,8 @@ I am a passionate software developer with a keen interest in building impactful 
 ![image](https://github.com/user-attachments/assets/50daefe7-96d6-4537-9250-3afa7080156c)
 ![image](https://github.com/user-attachments/assets/4162d9d1-7e05-44a3-9555-a461952842e3)
 
+#### 🔗 For generosity
+https://paypal.me/khalilovk
+
 #### 🔗 Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khalilov-kamoliddin-6a7314124/).
