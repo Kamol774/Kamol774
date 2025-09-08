@@ -1,8 +1,8 @@
-## Hi there I'm Kamoliddin (Kevin) 👋
+## Hi there I'm Kamoliddin 👋
 
 ### 🚀 About Me
 
-I am a passionate software developer with a keen interest in building impactful solutions using modern technologies. I love exploring new tech stacks and continuously improving my skills. [Portfolio](https://drive.google.com/file/d/1keAPXBGl3kWnjt8RWiASETEk62Km9cVh/view?usp=sharing)
+I am a passionate software developer with a keen interest in building impactful solutions using modern technologies. I love exploring new tech stacks and continuously improving my skills. 
 
 ### 🛠️ Tech Stack
 
